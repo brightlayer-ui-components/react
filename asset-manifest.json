@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.87114c6d.css",
-    "main.js": "/react/static/js/main.77f05d2c.js",
+    "main.css": "/react/static/css/main.bd2f8bf2.css",
+    "main.js": "/react/static/js/main.5c949325.js",
     "static/js/529.de2f5004.chunk.js": "/react/static/js/529.de2f5004.chunk.js",
     "static/media/appBar.gif": "/react/static/media/appBar.980a997b41e848fe321d.gif",
     "static/media/farm.jpg": "/react/static/media/farm.c34dd7a2043af396b769.jpg",
@@ -140,12 +140,12 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/react/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "static/media/react_logo.svg": "/react/static/media/react_logo.783aeec70f33aceac222f246046c7e20.svg",
     "index.html": "/react/index.html",
-    "main.87114c6d.css.map": "/react/static/css/main.87114c6d.css.map",
-    "main.77f05d2c.js.map": "/react/static/js/main.77f05d2c.js.map",
+    "main.bd2f8bf2.css.map": "/react/static/css/main.bd2f8bf2.css.map",
+    "main.5c949325.js.map": "/react/static/js/main.5c949325.js.map",
     "529.de2f5004.chunk.js.map": "/react/static/js/529.de2f5004.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87114c6d.css",
-    "static/js/main.77f05d2c.js"
+    "static/css/main.bd2f8bf2.css",
+    "static/js/main.5c949325.js"
   ]
 }
