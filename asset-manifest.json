@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.bd2f8bf2.css",
-    "main.js": "/react/static/js/main.5c949325.js",
+    "main.css": "/react/static/css/main.1b99f257.css",
+    "main.js": "/react/static/js/main.a1b0b4ab.js",
     "static/js/529.de2f5004.chunk.js": "/react/static/js/529.de2f5004.chunk.js",
     "static/media/appBar.gif": "/react/static/media/appBar.980a997b41e848fe321d.gif",
     "static/media/farm.jpg": "/react/static/media/farm.c34dd7a2043af396b769.jpg",
@@ -10,9 +10,20 @@
     "static/media/BrightlayerUIIcons.svg?": "/react/static/media/BrightlayerUIIcons.b45baba51f4bfb06eba3.svg",
     "static/media/ToolbarMenuAnatomy.png": "/react/static/media/ToolbarMenuAnatomy.d6833bfb868b47a80903.png",
     "static/media/drawerAnatomy.png": "/react/static/media/drawerAnatomy.e5fcec8e03e76281ba5f.png",
+    "static/media/app-bar.png": "/react/static/media/app-bar.83e6a67e190e4fed640b.png",
+    "static/media/three-liner.png": "/react/static/media/three-liner.c69a128bafc3e248cb33.png",
+    "static/media/scorecard.png": "/react/static/media/scorecard.c4ba3a5668d4d6ddd404.png",
+    "static/media/toolbar-menu.png": "/react/static/media/toolbar-menu.78a4dfd301881fe2719d.png",
+    "static/media/list-item-tag.png": "/react/static/media/list-item-tag.66763fb2779c7b1c97dc.png",
+    "static/media/user-menu.png": "/react/static/media/user-menu.fc86fc2522647c6c894c.png",
+    "static/media/info-list-item.png": "/react/static/media/info-list-item.58978908cb10b99bec32.png",
     "static/media/scoreCard_alt.png": "/react/static/media/scoreCard_alt.1ef103d03fb66f8189e6.png",
     "static/media/railAnatomy.png": "/react/static/media/railAnatomy.60731996140e27c50be2.png",
     "static/media/appBarAnatomy1.png": "/react/static/media/appBarAnatomy1.5ca636c004864fc21a28.png",
+    "static/media/drawer.png": "/react/static/media/drawer.ea835f4b6ece136c2b1c.png",
+    "static/media/channel-value.png": "/react/static/media/channel-value.6d1c4195b7042cfda85c.png",
+    "static/media/hero.png": "/react/static/media/hero.cca4583b0c52a661c6f5.png",
+    "static/media/empty-state.png": "/react/static/media/empty-state.169352d00ed2c973cb45.png",
     "static/media/open-sans-all-300-italic.woff": "/react/static/media/open-sans-all-300-italic.37e6ed3e0181b7fd5b98.woff",
     "static/media/open-sans-all-600-italic.woff": "/react/static/media/open-sans-all-600-italic.a34b0e79ec4d0fce7c8d.woff",
     "static/media/open-sans-all-400-italic.woff": "/react/static/media/open-sans-all-400-italic.24cd6c043faaec6fa014.woff",
@@ -35,7 +46,6 @@
     "static/media/spacer.png": "/react/static/media/spacer.14989c43e45c65a3678b.png",
     "static/media/heroAnatomy.png": "/react/static/media/heroAnatomy.fd5507b405afd89d8e48.png",
     "static/media/BrightlayerUIIcons.woff?": "/react/static/media/BrightlayerUIIcons.cdb1ea9d2139ef4ebe9a.woff",
-    "static/media/drawer.png": "/react/static/media/drawer.ea835f4b6ece136c2b1c.png",
     "static/media/navItemAnatomy.png": "/react/static/media/navItemAnatomy.3aa302f8e18ced928641.png",
     "static/media/BrightlayerUIIcons.woff2?": "/react/static/media/BrightlayerUIIcons.38614213918b818a60df.woff2",
     "static/media/channelValueAnatomy.png": "/react/static/media/channelValueAnatomy.3e47c2681899b199281a.png",
@@ -126,6 +136,7 @@
     "static/media/open-sans-vietnamese-700-normal.woff2": "/react/static/media/open-sans-vietnamese-700-normal.6e284d5f12b6c4e8752b.woff2",
     "static/media/roboto-vietnamese-400-normal.woff2": "/react/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
     "static/media/roboto-mono-greek-400-normal.woff2": "/react/static/media/roboto-mono-greek-400-normal.95e7a382e12921ef32ee.woff2",
+    "static/media/zebra-striping-table.svg": "/react/static/media/zebra-striping-table.d8fcc9697232c789cd98932d5ab62fbf.svg",
     "static/media/roboto-mono-vietnamese-400-normal.woff2": "/react/static/media/roboto-mono-vietnamese-400-normal.a9575edb558363648d81.woff2",
     "static/media/open-sans-greek-ext-300-italic.woff2": "/react/static/media/open-sans-greek-ext-300-italic.9da55d3e3f46293f3c5a.woff2",
     "static/media/open-sans-greek-ext-700-italic.woff2": "/react/static/media/open-sans-greek-ext-700-italic.0e29e57a86ce83e1eab8.woff2",
@@ -137,15 +148,15 @@
     "static/media/open-sans-greek-ext-400-normal.woff2": "/react/static/media/open-sans-greek-ext-400-normal.6e872659616d9b8fb28c.woff2",
     "static/media/open-sans-greek-ext-600-normal.woff2": "/react/static/media/open-sans-greek-ext-600-normal.89b326b88092845d13bc.woff2",
     "static/media/open-sans-greek-ext-700-normal.woff2": "/react/static/media/open-sans-greek-ext-700-normal.62f39cc9ee19d2e0df1e.woff2",
+    "static/media/circles.svg": "/react/static/media/circles.27f3d11c1cf76cbaaccc6007d2e2ca78.svg",
     "static/media/roboto-greek-ext-400-normal.woff2": "/react/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
-    "static/media/react_logo.svg": "/react/static/media/react_logo.783aeec70f33aceac222f246046c7e20.svg",
     "index.html": "/react/index.html",
-    "main.bd2f8bf2.css.map": "/react/static/css/main.bd2f8bf2.css.map",
-    "main.5c949325.js.map": "/react/static/js/main.5c949325.js.map",
+    "main.1b99f257.css.map": "/react/static/css/main.1b99f257.css.map",
+    "main.a1b0b4ab.js.map": "/react/static/js/main.a1b0b4ab.js.map",
     "529.de2f5004.chunk.js.map": "/react/static/js/529.de2f5004.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd2f8bf2.css",
-    "static/js/main.5c949325.js"
+    "static/css/main.1b99f257.css",
+    "static/js/main.a1b0b4ab.js"
   ]
 }
